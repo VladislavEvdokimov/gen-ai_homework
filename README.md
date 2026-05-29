@@ -1,4 +1,4 @@
-# 🤖 Практическое применение генеративного ИИ
+# 🎓 Курс «Практическое применение генеративного ИИ»
 
-## Прогресс
-- [x] ~~Семинар 2~~ → [готово](https://github.com/VladislavEvdokimov/gen-ai_homework/tree/main/seminar_2)
+✨ **Семинар 2** — ✔️ [Выполнено](https://github.com/VladislavEvdokimov/gen-ai_homework/tree/main/seminar_2)  
+(нажмите на ссылку, чтобы перейти к папке с кодом)
