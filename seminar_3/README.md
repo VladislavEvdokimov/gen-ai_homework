@@ -1,5 +1,9 @@
 # Выводы по анализу отзывов на Genshin Impact
 
+## 0. Датасет
+
+Был выбран датасет [Cross-Locale Mobile Game Reviews](https://www.kaggle.com/datasets/araraltawil/cross-locale-mobile-game-reviews) и отобраны 100 отзывов.
+
 ## 1. Что получилось
 
 | Метрика | Значение |
