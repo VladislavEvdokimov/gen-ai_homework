@@ -1,0 +1,20 @@
+{
+  "labels": [
+    "Holodnyj start",
+    "Povtor (kesh)"
+  ],
+  "results": [
+    {
+      "time": 11.7,
+      "prompt_tokens": 872,
+      "cache_hit": 768,
+      "cache_miss": 104
+    },
+    {
+      "time": 9.2,
+      "prompt_tokens": 872,
+      "cache_hit": 768,
+      "cache_miss": 104
+    }
+  ]
+}

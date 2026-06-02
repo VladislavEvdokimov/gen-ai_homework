@@ -1,0 +1,59 @@
+{
+  "verdicts": [
+    {
+      "action": "Оптимизировать производительность: уменьшить время загрузки, снизить требования к устройству и исправить вылеты.",
+      "support": "supported",
+      "evidence": [
+        "the loading time is still long",
+        "the game kept stopping",
+        "you will lag and crash ur phone",
+        "the game crash in the middle of story repeatedly",
+        "my phone can't handle all the dialogue. it becomes so over heated"
+      ],
+      "comment": "Множество жалоб на долгую загрузку, вылеты, лаги и высокие требования к устройству."
+    },
+    {
+      "action": "Уменьшить размер приложения или предоставить возможность выборочной загрузки ресурсов.",
+      "support": "supported",
+      "evidence": [
+        "why it's 40gb in mobile",
+        "the resources is 28gb",
+        "download size has so many gb please low the size under 10 to 15 gb"
+      ],
+      "comment": "Прямые жалобы на огромный размер приложения и запросы уменьшить его."
+    },
+    {
+      "action": "Пересмотреть модель монетизации: увеличить бесплатные награды, снизить цены или улучшить шансы в гаче.",
+      "support": "supported",
+      "evidence": [
+        "The game revolves around gambling and spending so much money",
+        "GIVE US BETTER REWARDS",
+        "unfair pulling mechanism",
+        "I wish the game could give more free primogems or wishes to us"
+      ],
+      "comment": "Много жалоб на высокие цены, плохие шансы в гаче и недостаток бесплатных наград."
+    },
+    {
+      "action": "Добавить кнопку пропуска для всех диалогов и кат-сцен, а также возможность ускорить анимации.",
+      "support": "supported",
+      "evidence": [
+        "no skip button yet unbearable",
+        "add a skip button and i will make my return",
+        "PLS ADD SKIP BOTTON IN STORY MOODS"
+      ],
+      "comment": "Прямые просьбы добавить кнопку пропуска диалогов и кат-сцен."
+    },
+    {
+      "action": "Улучшить стабильность входа в аккаунт, исправить ошибки верификации и ускорить работу службы поддержки.",
+      "support": "supported",
+      "evidence": [
+        "why it wont log in my acc when my password is right why penalty of 20 mins?!",
+        "I cannot log into account with the 'too many requests..' error",
+        "I asked the cs team and they will never response."
+      ],
+      "comment": "Жалобы на проблемы с входом, верификацией и медленную поддержку."
+    }
+  ],
+  "overall_score": 1.0,
+  "summary": "Все рекомендации полностью обоснованы реальными жалобами пользователей."
+}

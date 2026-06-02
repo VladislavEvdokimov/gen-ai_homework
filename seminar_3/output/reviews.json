@@ -1,0 +1,1142 @@
+[
+  {
+    "id": 1,
+    "text": "Awesome. Smooth on my low-budget phone (in compatible mode) and I only crashed like two times but it didn't really bother me since logging in again doesn't take too much time.",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 2,
+        "quote": "I only crashed like two times"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "I played this game from October 2020 to April 2023... the loading time is still long. It really shouldn't be like that.",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 4,
+        "quote": "the loading time is still long"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "I love this game",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 4,
+    "text": "hello again genshin... the game kept stopping I have no choice but to postpone",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 4,
+        "quote": "the game kept stopping"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "27/9/2025",
+    "rating": null,
+    "review_date": "27/9/2025",
+    "issues": []
+  },
+  {
+    "id": 6,
+    "text": "why it's 40gb in mobile pls do something about it we can't play make it 20 atleast mobile can't handle the game",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 5,
+        "quote": "why it's 40gb in mobile"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "I love it so much even though it needs more adjustment and the resources is 28gb",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 3,
+        "quote": "the resources is 28gb"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Paid for gems & didn't get them... After signing out & back in the Crystals came through",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "поддержка",
+        "severity": 4,
+        "quote": "Paid for gems & didn't get them"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "I tried to login back into my account after 3 days... my Whole thing was restarted and I lost all my characters",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "надёжность",
+        "severity": 5,
+        "quote": "my Whole thing was restarted and I lost all my characters"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "takes a lot of storage but it's a great game",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 2,
+        "quote": "takes a lot of storage"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "it's fun but I do not recommend using an old phone you will lag and crash ur phone",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 4,
+        "quote": "you will lag and crash ur phone"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "I love this game so much and the support team are so helpful",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 13,
+    "text": "stop sexualizing characters",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "дизайн",
+        "severity": 3,
+        "quote": "stop sexualizing characters"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "the game is awsome",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 15,
+    "text": "Loving this game since its release... I like to suggest putting in the graphic settings some more adjustment options like contrast",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 16,
+    "text": "The game is Soo beautiful!!! Love the graphics and the storyline!!!",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 17,
+    "text": "Don't waste your time. the quests are unbearable... The game revolves around gambling and spending so much money",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "дизайн",
+        "severity": 4,
+        "quote": "the quests are unbearable"
+      },
+      {
+        "category": "цена",
+        "severity": 4,
+        "quote": "The game revolves around gambling and spending so much money"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Experience is awesome. Just missing only one thing Native Keyboard Mouse Support. Just add it!!!",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 19,
+    "text": "i lost 50/50 Nilou... all that time and energy wasted",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "дизайн",
+        "severity": 3,
+        "quote": "i lost 50/50 Nilou... all that time and energy wasted"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "I mean the game is good... the download it takes forever to get finish",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 3,
+        "quote": "the download it takes forever to get finish"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "I really like the game",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 22,
+    "text": "Badddd",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 23,
+    "text": "why it wont log in my acc when my password is right why penalty of 20 mins?!",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "надёжность",
+        "severity": 4,
+        "quote": "why it wont log in my acc when my password is right why penalty of 20 mins?!"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "BAD GAME BAD GRAPHICS BAD BAD BAD BAD",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "дизайн",
+        "severity": 3,
+        "quote": "BAD GRAPHICS"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "The characters",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 26,
+    "text": "bro why is when i try to play game is A 100 YEARS THING",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 4,
+        "quote": "bro why is when i try to play game is A 100 YEARS THING"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "The game is great",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 28,
+    "text": "the file size is tooo much so better if you should decrease file size with ai features",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 3,
+        "quote": "the file size is tooo much"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "FIRE I RECOMMEND.. if you have enough storage",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 3,
+        "quote": "if you have enough storage"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "This is The best Open world and story I ever play but it's need a big storage",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 2,
+        "quote": "it's need a big storage"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "I'd probably play a good bit",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 32,
+    "text": "This is game is very good and story but I wouldn't have to complain how the game crash in the middle of story repeatedly",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "надёжность",
+        "severity": 4,
+        "quote": "the game crash in the middle of story repeatedly"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "5 years and this company still SUCKS at welcoming new players... pretty graphics tho",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "поддержка",
+        "severity": 3,
+        "quote": "still SUCKS at welcoming new players"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "well good butna little bit bug",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "надёжность",
+        "severity": 2,
+        "quote": "butna little bit bug"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "im not exactly sure if it's just me as a mobile player or not",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 36,
+    "text": "Had a multiple occurrence of glitch and upon communicating with their customer support problem still not fixed.",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "надёжность",
+        "severity": 4,
+        "quote": "multiple occurrence of glitch"
+      },
+      {
+        "category": "поддержка",
+        "severity": 5,
+        "quote": "upon communicating with their customer support problem still not fixed."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "pretty fun game tbh the graphics are so good and character designing and deployment are peak",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 38,
+    "text": "The game is actually good... The dialogue in this game for every quest is too long... grinding for an ideal artifact... limited resin",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "дизайн",
+        "severity": 3,
+        "quote": "The dialogue in this game for every quest is too long"
+      },
+      {
+        "category": "дизайн",
+        "severity": 3,
+        "quote": "grinding for an ideal artifact"
+      },
+      {
+        "category": "дизайн",
+        "severity": 4,
+        "quote": "limited resin"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "text": "This game is very great. I love playing it but the game lags my device is compatible but game suddenly stops.",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 3,
+        "quote": "the game lags"
+      },
+      {
+        "category": "надёжность",
+        "severity": 4,
+        "quote": "game suddenly stops"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "text": "no skip button yet unbearable",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "дизайн",
+        "severity": 5,
+        "quote": "no skip button yet unbearable"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "text": "-1s for draining my wallet",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "цена",
+        "severity": 4,
+        "quote": "-1s for draining my wallet"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "text": "add a skip button and i will make my return to this game",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "дизайн",
+        "severity": 2,
+        "quote": "add a skip button and i will make my return to this game"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "text": "Really fv<king whale game",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "цена",
+        "severity": 4,
+        "quote": "Really fv<king whale game"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "text": ".Hi!I'm experiencing bugs on my game... it keeps on closing even if it's already updated.",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "надёжность",
+        "severity": 4,
+        "quote": "it keeps on closing even if it's already updated."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "text": "why so petty in primogems... when the 1pull cost 160 primogems. WTH?",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "цена",
+        "severity": 3,
+        "quote": "why so petty in primogems... when the 1pull cost 160 primogems"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "text": "Just Give us a skip button Thank you",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "дизайн",
+        "severity": 2,
+        "quote": "Just Give us a skip button Thank you"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "text": "it was so great but the quality on phone was quite disappointing",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 3,
+        "quote": "the quality on phone was quite disappointing"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "text": "GIVE US BETTER REWARDS",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "цена",
+        "severity": 4,
+        "quote": "GIVE US BETTER REWARDS"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "text": "won't even open I'm using SamsungA16 5G",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "надёжность",
+        "severity": 5,
+        "quote": "won't even open"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "text": "idk why but it's always taking 1-2 hrs to download whatsoever... please make the login process like downloading one shorter",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 4,
+        "quote": "it's always taking 1-2 hrs to download whatsoever"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "text": "Planning to add AI-generated art into the game.",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 52,
+    "text": "Amazing graphics and an engaging story! Only downside is the high ping in India and huge update sizes.",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 3,
+        "quote": "high ping in India"
+      },
+      {
+        "category": "производительность",
+        "severity": 3,
+        "quote": "huge update sizes"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "text": "game is beautiful but download size has so many gb please low the size under 10 to 15 gb",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 4,
+        "quote": "download size has so many gb please low the size under 10 to 15 gb"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "text": "This game......is just... beautiful but a lot of grinding",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "дизайн",
+        "severity": 3,
+        "quote": "a lot of grinding"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "text": "The game is a failure",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 56,
+    "text": "I guess this game is only meant for those with premium phones",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 3,
+        "quote": "only meant for those with premium phones"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "text": "I cannot log into account with the 'too many requests..' error. I asked the cs team and they will never response.",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "надёжность",
+        "severity": 4,
+        "quote": "I cannot log into account with the 'too many requests..' error"
+      },
+      {
+        "category": "поддержка",
+        "severity": 4,
+        "quote": "I asked the cs team and they will never response."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "text": "I summoned on Raiden Shogun but when I got the character the game bugged out and I didn't get her",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "надёжность",
+        "severity": 5,
+        "quote": "when I got the character the game bugged out and I didn't get her"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "text": "fun game at first but...it's honestly more about the money. you want to advance then you need the right characters and you need to be lucky... I don't want to drop any more money",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "цена",
+        "severity": 4,
+        "quote": "it's honestly more about the money"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "text": "The game has unfair pulling mechanism... it's too much storage",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "цена",
+        "severity": 4,
+        "quote": "unfair pulling mechanism"
+      },
+      {
+        "category": "производительность",
+        "severity": 3,
+        "quote": "it's too much storage"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "text": "It's great! I love the graphics",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 62,
+    "text": "good game and good graphics",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 63,
+    "text": "this game is so good and this game has good graphics but it takes to long to download",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 3,
+        "quote": "it takes to long to download"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "text": "after playing wuthering waves",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 65,
+    "text": "This game is MASSIVE... you could spend a lot of money on it",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "цена",
+        "severity": 2,
+        "quote": "you could spend a lot of money on it"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "text": "it not coming on anytime I download it",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "надёжность",
+        "severity": 4,
+        "quote": "it not coming on anytime I download it"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "text": "it forces me to get a verification code from my old deleted Google account...",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "поддержка",
+        "severity": 4,
+        "quote": "it forces me to get a verification code from my old deleted Google account"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "text": "Good Game actually and story is good but the story telling it's a NO... the game also takes up a lot of Storage",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "дизайн",
+        "severity": 2,
+        "quote": "the story telling it's a NO"
+      },
+      {
+        "category": "производительность",
+        "severity": 3,
+        "quote": "the game also takes up a lot of Storage"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "text": "good but to big still loves it",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 2,
+        "quote": "to big"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "text": "Thank you for listening to your players. I love the game",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 71,
+    "text": "The game itself is okay but is has become unplayable on my older device as it makes my Wi-Fi connection and/or the whole phone crash. Additionally",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 5,
+        "quote": "makes my Wi-Fi connection and/or the whole phone crash"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "text": "They deleted my account for an age verification I had already done",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "поддержка",
+        "severity": 5,
+        "quote": "They deleted my account for an age verification I had already done"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "text": "This is best graphic game",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 74,
+    "text": "The most amazing game on mobile ever created. Just Amazing",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 75,
+    "text": "I love this game",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 76,
+    "text": "needs optimaztions... it can run smoother... slightly laggy problem even on PC",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 3,
+        "quote": "needs optimaztions... it can run smoother... slightly laggy problem even on PC"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "text": "this is a very nice game",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 78,
+    "text": "Please add a skip button for certain parts of world quests. Timed challenges absolutely suck",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "дизайн",
+        "severity": 3,
+        "quote": "Please add a skip button for certain parts of world quests. Timed challenges absolutely suck"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "text": "Why this game is crashing",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 4,
+        "quote": "Why this game is crashing"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "text": "The game is as advertised... It's definitely f2p friendly because you can still enjoy the game with the characters they give you",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 81,
+    "text": "I love the characters' lore",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 82,
+    "text": "it's hard to grind specially if your account is in worst luck pulls. it's also hard to grind primogems",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "цена",
+        "severity": 3,
+        "quote": "it's hard to grind specially if your account is in worst luck pulls. it's also hard to grind primogems"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "text": "this game is awesome",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 84,
+    "text": "If you want to maximize your rewards",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 85,
+    "text": "Genshin impact offers an open world experience with awesome looking landscape & wonderful combat",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 86,
+    "text": "I think it's neat how the more quest you do the more storage you can get back (for best proformance turn graphics to lowest)",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 1,
+        "quote": "for best proformance turn graphics to lowest"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "text": "Plss fix ping issue after luna1 ver update the ping is always red nearly 200 ms !",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 4,
+        "quote": "Plss fix ping issue after luna1 ver update the ping is always red nearly 200 ms !"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "text": "Good",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 89,
+    "text": "we want 120 fps option in android flagships also. like iphone",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 3,
+        "quote": "we want 120 fps option in android flagships also. like iphone"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "text": "I've been playing this game since 2022... I wish the game could give more free primogems or wishes to us",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "цена",
+        "severity": 2,
+        "quote": "I wish the game could give more free primogems or wishes to us"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "text": "just trashy bad optimization game",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 5,
+        "quote": "just trashy bad optimization game"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "text": "I don't know wether my phone is just not suitable for gaming",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 93,
+    "text": "the best rpg game there is for free",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 94,
+    "text": "hi... PLS ADD SKIP BOTTON IN STORY MOODS I WANNA PLAY FAST!",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "дизайн",
+        "severity": 4,
+        "quote": "PLS ADD SKIP BOTTON IN STORY MOODS I WANNA PLAY FAST!"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "text": "not gonna lie",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 96,
+    "text": "love it so much I used to play it alot but I had no storage for updates",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 3,
+        "quote": "I had no storage for updates"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "text": "it is good but can make the space of the storage become lower",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "производительность",
+        "severity": 3,
+        "quote": "can make the space of the storage become lower"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "text": "this game NEEEDS a skip button. I don't understand why haven't you added it yet... my phone can't handle all the dialogue. it becomes so over heated",
+    "rating": null,
+    "review_date": null,
+    "issues": [
+      {
+        "category": "дизайн",
+        "severity": 4,
+        "quote": "this game NEEEDS a skip button. I don't understand why haven't you added it yet..."
+      },
+      {
+        "category": "производительность",
+        "severity": 4,
+        "quote": "my phone can't handle all the dialogue. it becomes so over heated"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "text": "the gameplay is pretty cool... however",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  },
+  {
+    "id": 100,
+    "text": "A bunch of neverending",
+    "rating": null,
+    "review_date": null,
+    "issues": []
+  }
+]

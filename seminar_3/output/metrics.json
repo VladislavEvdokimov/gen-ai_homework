@@ -1,0 +1,49 @@
+{
+  "n_reviews": 100,
+  "n_valid_reviews": 100,
+  "n_errors": 0,
+  "n_issues": 75,
+  "n_ghost_quotes": 0,
+  "ghost_pct": 0.0,
+  "overall_score": 1.0,
+  "time_seconds": {
+    "ie": 25.8,
+    "aspects": 22.9,
+    "map_reduce": 22.0,
+    "judge": 12.8,
+    "caching": 20.9,
+    "total": 109.5
+  },
+  "token_usage": {
+    "prompt_tokens": 33213,
+    "completion_tokens": 46217,
+    "cache_hit_tokens": 26880,
+    "cache_miss_tokens": 6333
+  },
+  "estimated_cost_usd": 0.008286,
+  "judge_counts": {
+    "supported": 5,
+    "weakly_supported": 0,
+    "not_supported": 0
+  },
+  "caching": {
+    "labels": [
+      "Holodnyj start",
+      "Povtor (kesh)"
+    ],
+    "results": [
+      {
+        "time": 11.7,
+        "prompt_tokens": 872,
+        "cache_hit": 768,
+        "cache_miss": 104
+      },
+      {
+        "time": 9.2,
+        "prompt_tokens": 872,
+        "cache_hit": 768,
+        "cache_miss": 104
+      }
+    ]
+  }
+}

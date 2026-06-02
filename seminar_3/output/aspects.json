@@ -1,0 +1,984 @@
+[
+  {
+    "id": 1,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "positive",
+        "quote": "Smooth on my low-budget phone",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "the loading time is still long",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "aspects": []
+  },
+  {
+    "id": 4,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "the game kept stopping",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "aspects": []
+  },
+  {
+    "id": 6,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "why it's 40gb in mobile pls do something about it we can't play",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "the resources is 28gb",
+        "confidence": 0.7
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "aspects": [
+      {
+        "aspect": "цена",
+        "sentiment": "negative",
+        "quote": "Paid for gems & didn't get them",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "aspects": [
+      {
+        "aspect": "надёжность",
+        "sentiment": "negative",
+        "quote": "my Whole thing was restarted and I lost all my characters",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "takes a lot of storage",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "it's fun but I do not recommend using an old phone you will lag and crash ur phone",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "aspects": [
+      {
+        "aspect": "поддержка",
+        "sentiment": "positive",
+        "quote": "I love this game so much and the support team are so helpful",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "aspects": [
+      {
+        "aspect": "дизайн",
+        "sentiment": "negative",
+        "quote": "stop sexualizing characters",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "aspects": []
+  },
+  {
+    "id": 15,
+    "aspects": [
+      {
+        "aspect": "дизайн",
+        "sentiment": "neutral",
+        "quote": "I like to suggest putting in the graphic settings some more adjustment options like contrast",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "aspects": [
+      {
+        "aspect": "дизайн",
+        "sentiment": "positive",
+        "quote": "The game is Soo beautiful!!! Love the graphics and the storyline!!!",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "aspects": [
+      {
+        "aspect": "цена",
+        "sentiment": "negative",
+        "quote": "The game revolves around gambling and spending so much money",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "neutral",
+        "quote": "Just missing only one thing Native Keyboard Mouse Support.",
+        "confidence": 0.85
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "aspects": [
+      {
+        "aspect": "надёжность",
+        "sentiment": "negative",
+        "quote": "i lost 50/50 Nilou... all that time and energy wasted",
+        "confidence": 0.7
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "the download it takes forever to get finish",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "aspects": []
+  },
+  {
+    "id": 22,
+    "aspects": []
+  },
+  {
+    "id": 23,
+    "aspects": [
+      {
+        "aspect": "надёжность",
+        "sentiment": "negative",
+        "quote": "why it wont log in my acc when my password is right why penalty of 20 mins?!",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "aspects": [
+      {
+        "aspect": "дизайн",
+        "sentiment": "negative",
+        "quote": "BAD GRAPHICS",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "aspects": []
+  },
+  {
+    "id": 26,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "why is when i try to play game is A 100 YEARS THING",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "aspects": []
+  },
+  {
+    "id": 28,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "the file size is tooo much",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "if you have enough storage",
+        "confidence": 0.7
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "aspects": [
+      {
+        "aspect": "дизайн",
+        "sentiment": "positive",
+        "quote": "This is The best Open world and story I ever play",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "it's need a big storage",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "how the game crash in the middle of story repeatedly",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "aspects": [
+      {
+        "aspect": "дизайн",
+        "sentiment": "positive",
+        "quote": "pretty graphics tho",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "aspects": [
+      {
+        "aspect": "надёжность",
+        "sentiment": "negative",
+        "quote": "little bit bug",
+        "confidence": 0.7
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "aspects": [
+      {
+        "aspect": "надёжность",
+        "sentiment": "negative",
+        "quote": "multiple occurrence of glitch",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "поддержка",
+        "sentiment": "negative",
+        "quote": "communicating with their customer support problem still not fixed",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "aspects": [
+      {
+        "aspect": "дизайн",
+        "sentiment": "positive",
+        "quote": "the graphics are so good and character designing and deployment are peak",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "the game lags my device is compatible but game suddenly stops",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "aspects": [
+      {
+        "aspect": "дизайн",
+        "sentiment": "negative",
+        "quote": "no skip button yet unbearable",
+        "confidence": 0.6
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "aspects": [
+      {
+        "aspect": "цена",
+        "sentiment": "negative",
+        "quote": "draining my wallet",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "aspects": [
+      {
+        "aspect": "дизайн",
+        "sentiment": "negative",
+        "quote": "add a skip button and i will make my return to this game",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "aspects": [
+      {
+        "aspect": "цена",
+        "sentiment": "negative",
+        "quote": "Really fv<king whale game",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "aspects": [
+      {
+        "aspect": "надёжность",
+        "sentiment": "negative",
+        "quote": "Hi!I'm experiencing bugs on my game... it keeps on closing even if it's already updated.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "aspects": [
+      {
+        "aspect": "цена",
+        "sentiment": "negative",
+        "quote": "why so petty in primogems... when the 1pull cost 160 primogems. WTH?",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "aspects": [
+      {
+        "aspect": "дизайн",
+        "sentiment": "negative",
+        "quote": "Just Give us a skip button Thank you",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "aspects": [
+      {
+        "aspect": "дизайн",
+        "sentiment": "negative",
+        "quote": "it was so great but the quality on phone was quite disappointing",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "aspects": [
+      {
+        "aspect": "цена",
+        "sentiment": "negative",
+        "quote": "GIVE US BETTER REWARDS",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "aspects": [
+      {
+        "aspect": "надёжность",
+        "sentiment": "negative",
+        "quote": "won't even open I'm using SamsungA16 5G",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "idk why but it's always taking 1-2 hrs to download whatsoever... please make the login process like downloading one shorter",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "aspects": [
+      {
+        "aspect": "дизайн",
+        "sentiment": "neutral",
+        "quote": "Planning to add AI-generated art into the game.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "aspects": [
+      {
+        "aspect": "дизайн",
+        "sentiment": "positive",
+        "quote": "Amazing graphics and an engaging story!",
+        "confidence": 1.0
+      },
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "Only downside is the high ping in India and huge update sizes.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "aspects": [
+      {
+        "aspect": "дизайн",
+        "sentiment": "positive",
+        "quote": "game is beautiful",
+        "confidence": 1.0
+      },
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "download size has so many gb",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "aspects": [
+      {
+        "aspect": "дизайн",
+        "sentiment": "positive",
+        "quote": "This game......is just... beautiful",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "aspects": []
+  },
+  {
+    "id": 56,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "I guess this game is only meant for those with premium phones",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "aspects": [
+      {
+        "aspect": "надёжность",
+        "sentiment": "negative",
+        "quote": "I cannot log into account with the 'too many requests..' error.",
+        "confidence": 1.0
+      },
+      {
+        "aspect": "поддержка",
+        "sentiment": "negative",
+        "quote": "I asked the cs team and they will never response.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "aspects": [
+      {
+        "aspect": "надёжность",
+        "sentiment": "negative",
+        "quote": "when I got the character the game bugged out and I didn't get her",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "aspects": [
+      {
+        "aspect": "цена",
+        "sentiment": "negative",
+        "quote": "it's honestly more about the money",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "aspects": [
+      {
+        "aspect": "цена",
+        "sentiment": "negative",
+        "quote": "The game has unfair pulling mechanism",
+        "confidence": 1.0
+      },
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "it's too much storage",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "aspects": [
+      {
+        "aspect": "дизайн",
+        "sentiment": "positive",
+        "quote": "I love the graphics",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "aspects": [
+      {
+        "aspect": "дизайн",
+        "sentiment": "positive",
+        "quote": "good graphics",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "aspects": [
+      {
+        "aspect": "дизайн",
+        "sentiment": "positive",
+        "quote": "good graphics",
+        "confidence": 1.0
+      },
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "it takes to long to download",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "aspects": []
+  },
+  {
+    "id": 65,
+    "aspects": [
+      {
+        "aspect": "цена",
+        "sentiment": "negative",
+        "quote": "you could spend a lot of money on it",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "aspects": [
+      {
+        "aspect": "надёжность",
+        "sentiment": "negative",
+        "quote": "it not coming on anytime I download it",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "aspects": [
+      {
+        "aspect": "надёжность",
+        "sentiment": "negative",
+        "quote": "it forces me to get a verification code from my old deleted Google account...",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "the game also takes up a lot of Storage",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "to big",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "aspects": [
+      {
+        "aspect": "поддержка",
+        "sentiment": "positive",
+        "quote": "Thank you for listening to your players.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "aspects": [
+      {
+        "aspect": "надёжность",
+        "sentiment": "negative",
+        "quote": "makes my Wi-Fi connection and/or the whole phone crash",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "aspects": [
+      {
+        "aspect": "поддержка",
+        "sentiment": "negative",
+        "quote": "They deleted my account for an age verification I had already done",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "aspects": [
+      {
+        "aspect": "дизайн",
+        "sentiment": "positive",
+        "quote": "This is best graphic game",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "aspects": []
+  },
+  {
+    "id": 75,
+    "aspects": []
+  },
+  {
+    "id": 76,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "needs optimaztions... it can run smoother... slightly laggy problem even on PC",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "aspects": []
+  },
+  {
+    "id": 78,
+    "aspects": [
+      {
+        "aspect": "дизайн",
+        "sentiment": "negative",
+        "quote": "Please add a skip button for certain parts of world quests. Timed challenges absolutely suck",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "aspects": [
+      {
+        "aspect": "надёжность",
+        "sentiment": "negative",
+        "quote": "Why this game is crashing",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "aspects": [
+      {
+        "aspect": "цена",
+        "sentiment": "positive",
+        "quote": "It's definitely f2p friendly because you can still enjoy the game with the characters they give you",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "aspects": []
+  },
+  {
+    "id": 82,
+    "aspects": [
+      {
+        "aspect": "цена",
+        "sentiment": "negative",
+        "quote": "it's hard to grind specially if your account is in worst luck pulls. it's also hard to grind primogems",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "aspects": []
+  },
+  {
+    "id": 84,
+    "aspects": []
+  },
+  {
+    "id": 85,
+    "aspects": [
+      {
+        "aspect": "дизайн",
+        "sentiment": "positive",
+        "quote": "awesome looking landscape",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "for best proformance turn graphics to lowest",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "ping is always red nearly 200 ms",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "aspects": []
+  },
+  {
+    "id": 89,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "we want 120 fps option in android flagships also. like iphone",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "aspects": [
+      {
+        "aspect": "цена",
+        "sentiment": "negative",
+        "quote": "I wish the game could give more free primogems or wishes to us",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "just trashy bad optimization game",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "I don't know wether my phone is just not suitable for gaming",
+        "confidence": 0.7
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "aspects": [
+      {
+        "aspect": "цена",
+        "sentiment": "positive",
+        "quote": "the best rpg game there is for free",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "aspects": [
+      {
+        "aspect": "дизайн",
+        "sentiment": "negative",
+        "quote": "PLS ADD SKIP BOTTON IN STORY MOODS I WANNA PLAY FAST!",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "aspects": []
+  },
+  {
+    "id": 96,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "I had no storage for updates",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "aspects": [
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "can make the space of the storage become lower",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "aspects": [
+      {
+        "aspect": "дизайн",
+        "sentiment": "negative",
+        "quote": "this game NEEEDS a skip button. I don't understand why haven't you added it yet...",
+        "confidence": 1.0
+      },
+      {
+        "aspect": "производительность",
+        "sentiment": "negative",
+        "quote": "my phone can't handle all the dialogue. it becomes so over heated",
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "aspects": []
+  },
+  {
+    "id": 100,
+    "aspects": []
+  }
+]
