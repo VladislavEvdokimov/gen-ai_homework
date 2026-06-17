@@ -1,0 +1,14 @@
+{
+  "steps": 6,
+  "total_tokens": 5118,
+  "total_cost_usd": 0.031987,
+  "duration_seconds": 178.6,
+  "artifacts": [
+    "input/personas.json",
+    "output/transcript.json",
+    "output/entities.json",
+    "output/aspects.json",
+    "output/summary.json",
+    "output/judge_report.json"
+  ]
+}

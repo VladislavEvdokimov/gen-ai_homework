@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Aisha Chen",
+    "age": 27,
+    "gender": "female",
+    "occupation": "Software Engineer",
+    "income_level": "middle",
+    "residence": "city",
+    "car_experience": "Owns a 2018 Honda Civic, uses it for daily commute. Interested in fuel efficiency but never tried hybrid.",
+    "attitude_to_hybrid": "positive",
+    "personality_traits": "Tech-savvy, environmentally conscious, open to innovation."
+  },
+  {
+    "id": 2,
+    "name": "Marcus Johnson",
+    "age": 54,
+    "gender": "male",
+    "occupation": "High school teacher",
+    "income_level": "middle",
+    "residence": "suburb",
+    "car_experience": "Drives a 2015 minivan for family trips. Values reliability and space over novelty.",
+    "attitude_to_hybrid": "neutral",
+    "personality_traits": "Pragmatic, cautious with spending, family-oriented."
+  },
+  {
+    "id": 3,
+    "name": "Yuki Tanaka",
+    "age": 68,
+    "gender": "male",
+    "occupation": "Retired banker",
+    "income_level": "high",
+    "residence": "city",
+    "car_experience": "Owns a luxury sedan and an SUV. Enjoys driving performance cars.",
+    "attitude_to_hybrid": "negative",
+    "personality_traits": "Traditionalist, values engine power, skeptical of new technology."
+  },
+  {
+    "id": 4,
+    "name": "Sam Rivera",
+    "age": 35,
+    "gender": "non-binary",
+    "occupation": "Graphic designer",
+    "income_level": "low",
+    "residence": "city",
+    "car_experience": "No car, relies on public transit and bike. Considers car ownership unnecessary expense.",
+    "attitude_to_hybrid": "neutral",
+    "personality_traits": "Minimalist, eco-friendly, financially constrained."
+  },
+  {
+    "id": 5,
+    "name": "Olga Petrov",
+    "age": 45,
+    "gender": "female",
+    "occupation": "Farm owner",
+    "income_level": "middle",
+    "residence": "rural",
+    "car_experience": "Drives a pickup truck for farm work. Needs towing capacity and durability.",
+    "attitude_to_hybrid": "negative",
+    "personality_traits": "Practical, hardworking, distrusts unproven tech in tough conditions."
+  },
+  {
+    "id": 6,
+    "name": "James Patel",
+    "age": 22,
+    "gender": "male",
+    "occupation": "College student",
+    "income_level": "low",
+    "residence": "suburb",
+    "car_experience": "Shares a family car, a 2012 Toyota Camry. Limited budget for personal vehicle.",
+    "attitude_to_hybrid": "undecided",
+    "personality_traits": "Curious, budget-conscious, influenced by peers and media."
+  }
+]
