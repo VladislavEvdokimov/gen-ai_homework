@@ -109,7 +109,7 @@ def main():
         print(f"Замеров: {result['n']}")
         print(f"\nПоследовательный (среднее): {result['avg_seq']:.3f} с")
         print(f"Параллельный (среднее):     {result['avg_par']:.3f} с")
-        print(f"Ускорение:                  {result['speedup']:.2f}×")
+        print(f"Ускорение:                  {result['speedup']:.2f}x")
         
         if result["total_subquestions"] > 1 and result["levels"] > 0:
             ideal = min(
@@ -126,7 +126,7 @@ def main():
     for test in TEST_QUERIES:
         result = measure(test["query"], n=5)
         print(f"{test['name']:<40} {result['total_subquestions']:>12} {result['levels']:>8} "
-              f"{result['avg_seq']:>8.3f}   {result['avg_par']:>8.3f}   {result['speedup']:>7.2f}×")
+              f"{result['avg_seq']:>8.3f}   {result['avg_par']:>8.3f}   {result['speedup']:>7.2f}x")
 
 
 if __name__ == "__main__":

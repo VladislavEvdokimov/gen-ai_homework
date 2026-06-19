@@ -1,0 +1,21 @@
+======================================================================
+ЗАМЕР ПАРАЛЛЕЛЬНОСТИ
+======================================================================
+
+--- Q1: рост USD (2 подвопроса, зависимость) ---
+Вопрос: Во сколько раз USD подорожал с 1 января 2022 по сегодня?
+
+Подвопросов: 3, уровней: 2
+Замеров: 5
+
+Последовательный (среднее): 11.474 с
+Параллельный (среднее):     7.688 с
+Traceback (most recent call last):
+  File "c:\gen-ai_homework\seminar_6\starter\measure_parallelism.py", line 133, in <module>
+    main()
+  File "c:\gen-ai_homework\seminar_6\starter\measure_parallelism.py", line 112, in main
+    print(f"Ускорение:                  {result['speedup']:.2f}\xd7")
+  File "C:\Users\asussome\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1251.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\xd7' in position 32: character maps to <undefined>

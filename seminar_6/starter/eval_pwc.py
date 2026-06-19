@@ -220,7 +220,7 @@ def main():
     args = ap.parse_args()
     n = 1 if args.single else args.n
 
-    print(f"Eval С6: {len(CASES)} кейсов × {n} прогонов\n")
+    print(f"Eval С6: {len(CASES)} кейсов x {n} прогонов\n")
     results = []
     for case in CASES:
         print(f"=== {case['id']}: {case['query'][:70]}...")

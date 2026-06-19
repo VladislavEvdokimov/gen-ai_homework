@@ -67,7 +67,7 @@ def _topological_levels(subqs: list[SubQuestion]) -> list[list[SubQuestion]]:
 
     # Разбиваем ordered на уровни
     levels: list[list[SubQuestion]] = []
-    remaining = set(ordered)
+    remaining: set[int] = set(sq.id for sq in ordered)
     
     while remaining:
         level_ids: set[int] = set()
